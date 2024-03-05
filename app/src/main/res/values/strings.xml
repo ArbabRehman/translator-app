@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Best Languages Translator App</string>
+
+
+    <string name="appUnit">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="app_name2">Best Language Translator</string>
+
+
+    <string name="exit_msg">Are You Sure You Want To Quit?</string>
+
+
+    <string name="exit_yes">Yes</string>
+    <string name="exit_no">No</string>
+
+
+    <string name="translated_text_hint">Translated text</string>
+</resources>

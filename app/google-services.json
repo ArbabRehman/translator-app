@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987802004091",
+    "project_id": "best-languages-translator-app",
+    "storage_bucket": "best-languages-translator-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987802004091:android:528e5099dd04164baad0de",
+        "android_client_info": {
+          "package_name": "com.translator.bestlanguagestranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987802004091-4cu7tpshicuff9n6ausrloq4h3c2eaa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZj9wetXy42OQfUxYtC-9PfH-dGhM_Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987802004091-4cu7tpshicuff9n6ausrloq4h3c2eaa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
